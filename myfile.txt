@@ -1,3 +1,4 @@
+FROM THE FORK.
 This is line 1
 ADDED FROM BRANCH ONE.
 This is line 2
